@@ -7,7 +7,7 @@ It was made using Django. HTML and CSS were used for front-end. SQLite was used 
 
 
 <div align="center">
-<img src="/template/files/ss.jpg" >
+<img src="/templates/files/ss.jpg" >
 </div>
 
 
